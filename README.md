@@ -5,3 +5,6 @@ This Python script allows you to generate multiple random passwords based on use
 - Generate multiple random passwords at once.
 - Customize the length of each password.
 - Includes both lowercase and uppercase letters, as well as digits for increased complexity.
+
+
+![image](https://github.com/ParthChande/Random-Password-Generator/assets/119730313/e1f3b9af-7531-4a71-83aa-ac23df60b9da)
